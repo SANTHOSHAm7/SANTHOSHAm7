@@ -39,7 +39,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,graphql,python,fastapi,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,ts,react,nextjs,nodejs,express,graphql,python,fastapi,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backends
