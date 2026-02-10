@@ -78,7 +78,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANTHOSHAM&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SANTHOSHAm7&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
 ---
