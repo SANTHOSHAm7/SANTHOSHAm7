@@ -20,7 +20,7 @@
 
 - 🔭 I build blazing-fast UIs and secure APIs  
 - 🧪 Exploring: `Next.js`, `AI Integration`, `DevOps`  
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Tailwind`, `Prisma`, `Node.js`, `MongoDB`, `GraphQL`  
+- 💬 Ask me about: `React`, `Next.js`,`Node.js`, `MongoDB`, `MysqL`  
 - 🧠 Fun Fact: I automate everything — from memes to markdowns
 
 ---
