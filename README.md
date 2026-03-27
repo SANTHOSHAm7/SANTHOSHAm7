@@ -2,10 +2,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+SANTHOSHA+(M)!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
-
 <p align="center">
-  <!-- Replace this image URL if it expires -->
-  <img src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <h3 align="center">
