@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🚀 Full Stack @ <span style="color:#00bcd4;">RentInTbilisi</span> | Focused on Dev, Design & Systems ⚙️</strong>
+  <strong>🚀 Full Stack  <span style="color:#00bcd4;">Developer</span> | Focused on Dev, Design & Systems ⚙️</strong>
 </h3>
 
 ---
