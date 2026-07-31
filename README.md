@@ -158,8 +158,6 @@
 
 ### 🌟 Programming Languages
 
-### 🌟 Programming Languages
-
 <div align="center">
 <table>
 
